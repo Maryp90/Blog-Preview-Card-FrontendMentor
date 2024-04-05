@@ -48,6 +48,11 @@ h1 {
     font-size: 24px;
 }
 
+h1:hover {
+    color: #f4d04e;
+    cursor: pointer;
+}
+
 .description {
     color: gray;
     margin: 0 0 20px;
